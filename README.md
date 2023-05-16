@@ -1,4 +1,3 @@
-
 <p align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&theme=onedark" alt="mjtechworks" /></a> </p>
 </p>
@@ -43,50 +42,141 @@
     </tr>
 </table>
 
-Talking about Personal Stuffs:
+# 💫 About Me
 
-🏆🏆🏆🎯🎯🎯✔✔✔💪💪💪
+- 🔭 I’m a Senior Full Stack Software Engineer.
+- 👍 I have rich experience of web development.
+- 🌱 I’m currently diving into Blockchain
+- 👯 I’m looking for web 3.0 experts.
 
-- I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
-- Enterprise application development and support
-- <b>Front-end</b> : Angular | Reactjs | Next.js | Vuejs | Vuex | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd | Redux | Webpack | Babel | Gulp | Websocket | GraphQL | ES6+
-- <b>3D</b> : Three.js | 3D Max | WebGl | Potree
-- <b>Back-end</b> : Python | Node | Express | Django | GoLang | ASP.NET | Laravel | CodeIgniter | Apollo | Nginx | Apache
-- <b>Mobile</b> : React-Native | Flutter | Ionic
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore | MariaDB | Redis
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | Notion
-- Git | Github | BitBucket | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Heroku | Jira | Trello | Digital-Ocean | Kubernetes | Github Action.
+# 💻 My favorite tools and technologies
 
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+        <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+ </tr>
+</table>
+<br>
 
-<div align="center">
-    
-<!-- ### Magni's GitHub Streak
-    
-![Magni's GitHub Streak](https://streak-stats.demolab.com/?user=bcExpt1123&theme=monokai-metallian&hide_border=true)
--->
-### Magni's Most Used Langauges
+### Most Used Langauges
 ![Magni's Most Used Langauges](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bcExpt1123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)
     
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smurf-Azrael&theme=react&line_height=40&hide=css) -->
 
-### Magni's Github Status
+### Github Status
 ![Magni's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=bcExpt1123&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Three.js%20Engineer💥;3D%20Project%20Developer;✨Blockchain%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨React%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
-
-<div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
-    <img align="right" src="https://img.shields.io/github/followers/bcExpt1123" />
-    <!-- <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" /> -->
-</div>
-
-<h1 align="center"></h1>
- <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=smurf-Azrael&theme=github&count_private=true" /> -->
-<!-- <h1 align="center"></h1> -->
-</br>
-
-
-<!--<a href="https://bcexpt1123.github.io/examples/rubik3/">
-    <img src="https://github.com/bcExpt1123/bcExpt1123/blob/main/screenshot.png?raw=true" title="Three.js" alt="Three.js">
-</a>-->
