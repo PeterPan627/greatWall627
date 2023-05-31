@@ -47,7 +47,6 @@
 - 🔭 I’m a Senior Full Stack Software Engineer.
 - 👍 I have rich experience of web development.
 - 🌱 I’m currently diving into Blockchain
-- 👯 I’m looking for web 3.0 experts.
 
 # 💻 My favorite tools and technologies
 
