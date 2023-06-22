@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/greatWall627/greatWall627/blob/master/devcard.svg" width="400" alt="Great Wall's Dev Card"/></a>
 <p align="center">
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=smurf-Azrael&theme=onedark" alt="mjtechworks" /></a> </p>
 </p>
